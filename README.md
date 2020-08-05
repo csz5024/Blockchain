@@ -22,3 +22,7 @@ geth CLI
 sudo geth attach http://localhost:8102
 
 ```
+
+https://ethereum.stackexchange.com/questions/11699/transaction-pending-status-blocknumber-null
+
+add enodes to admin.peers
